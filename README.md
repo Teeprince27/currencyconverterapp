@@ -13,14 +13,17 @@ Ktor for networking
 
 kotlinx.serialization for JSON handling
 
-Kamel for image loading
 Koin for dependency injection
+
 Voyager for navigation and screen models
-Coil for image/videos/gif processing
+
 Datastore for storing data asynchronously, consistently, and transactional
+
 Kotest for comprehensive testing tool
+
 Kotlin Coroutines
-Fake Data
+
+
 
 
 # Development 💻
