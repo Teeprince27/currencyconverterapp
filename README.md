@@ -2,7 +2,7 @@
 
 Welcome to the documentation for the Jetpack Compose Multiplatform Currency Converter Application!
 This is a cross-platform application that is built using Jetpack Compose Multiplatform. It includes shared business logic and data handling, and a shared UI implementation using Compose Multiplatform.
-The application allows users to covert currency etc on Android, iOS.
+The application allows users to covert currency on Android, iOS.
 
 
 # Tech Stack 📚
@@ -10,7 +10,9 @@ The application allows users to covert currency etc on Android, iOS.
 Compose Multiplatform for UI
 
 Ktor for networking
+
 kotlinx.serialization for JSON handling
+
 Kamel for image loading
 Koin for dependency injection
 Voyager for navigation and screen models
